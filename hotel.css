@@ -1,0 +1,12 @@
+.navbar{
+    display:flex;
+    justify-content: space-around
+}
+img{
+    max-width:100px;
+    height:auto;
+}
+.booking{background-color: black;
+         width:50px
+        
+        }
